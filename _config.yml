@@ -1,0 +1,28 @@
+name: MYRIAM SANTOS STUDIO
+favicon: null
+layout_spectrum: 0.3971021077595651
+typography_spectrum: 0.7977402117103338
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.17199000413529575
+  lightness: 0.05153594119474292
+  saturation: 0.11394377588294446
+  rhythmicContrast: 0.30510288663208485
+purpose: []
